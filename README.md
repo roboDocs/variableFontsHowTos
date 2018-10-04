@@ -1,6 +1,6 @@
 # variableFontsHowTos
 
-Source code for illustrations and examples used in RoboFont documentation articles about variable fonts:
+Source code for illustrations and examples used in RoboFont docs about variable fonts:
 
 - [Creating variable fonts](http://robofont.com/documentation/how-tos/creating-variable-fonts/)
 - [Creating designspaces](http://robofont.com/documentation/how-tos/creating-designspace-files/)
