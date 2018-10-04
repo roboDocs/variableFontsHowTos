@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+  <advance width="591"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="568" y="700" type="line"/>
+      <point x="524" y="700" type="line"/>
+      <point x="292" y="207" type="line"/>
+      <point x="313" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="700" type="line"/>
+      <point x="23" y="700" type="line"/>
+      <point x="277" y="198" type="line"/>
+      <point x="311" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="241" type="line"/>
+      <point x="276" y="241" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+    </dict>
+  </lib>
+</glyph>
